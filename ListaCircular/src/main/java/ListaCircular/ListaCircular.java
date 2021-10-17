@@ -60,6 +60,11 @@ public static void main(String[] args){
 
                     break;
 
+                default:
+
+                    JOptionPane.showMessageDialog(null, "La Opcion no esta en el Menú",
+                            "Incorrecto", JOptionPane.INFORMATION_MESSAGE);
+
             }
 
         }catch (NumberFormatException n){
