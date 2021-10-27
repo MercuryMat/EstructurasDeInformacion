@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9d41019-c3f4-40ff-9202-f5ec08ff7a27" name="Changes" comment="" />
+    <list default="true" id="a9d41019-c3f4-40ff-9202-f5ec08ff7a27" name="Changes" comment="(no funciona metodo buscar)">
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +71,18 @@
       <option name="presentableId" value="Default" />
       <updated>1634932091018</updated>
       <workItem from="1634932094953" duration="3625000" />
+      <workItem from="1634936653531" duration="174000" />
+      <workItem from="1635112641597" duration="1761000" />
+      <workItem from="1635289212923" duration="2043000" />
     </task>
+    <task id="LOCAL-00001" summary="(no funciona metodo buscar)">
+      <created>1634936728789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634936728789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +98,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="(no funciona metodo buscar)" />
+    <option name="LAST_COMMIT_MESSAGE" value="(no funciona metodo buscar)" />
   </component>
 </project>
