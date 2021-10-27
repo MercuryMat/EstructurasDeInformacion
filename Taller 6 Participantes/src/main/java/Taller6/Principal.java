@@ -36,7 +36,7 @@ public class Principal {
             switch (opcion){
 
                 case 1:
-                    log.log(Level.INFO, "Ingrese un nodo");
+                    log.log(Level.INFO, "Ingrese un participante");
                     int dato = teclado.nextInt();
                     lista1.ingresar(dato);
                     break;
@@ -50,7 +50,7 @@ public class Principal {
                 case 3:
 
                     log.log(Level.INFO, "Buscar");
-                    log.log(Level.INFO, "Inserte el nodo que desea buscar");
+                    log.log(Level.INFO, "Inserte el participante que desea buscar");
                     int dato3 = teclado.nextInt();
                     lista1.buscar(dato3);
 
