@@ -5,15 +5,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9d41019-c3f4-40ff-9202-f5ec08ff7a27" name="Changes" comment="(no funciona metodo buscar)">
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Taller 6 Dulces/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hanoi/src/main/java/Taller7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hanoi/src/main/java/Taller7/PilaA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/src/main/resources/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/target/classes/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/target/classes/Taller3/Funciones.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/target/classes/Taller3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Libro/target/test-classes/MiTest/FactorialTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/src/main/resources/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/target/classes/ListaCircular/ListaCircular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/target/classes/ListaCircular/ListaLc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/target/classes/ListaCircular/NodoLc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/target/classes/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ListaCircular/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parcial/src/main/java/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/src/main/resources/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/Taller7/ColaLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/Taller7/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/Taller7/NodoCola.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/Taller7/NodoPila.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/Taller7/PilaLista.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller 7/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/nb-configuration.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/src/main/resources/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/PaqueteReadme/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/Taller4/Dulces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/Taller4/Libro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/Taller4/Listable$Nodo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/Taller4/Listable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Taller4/Taller4/target/classes/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Taller 7/src/main/java/Taller7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Taller 7/src/main/java/Taller7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +104,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Taller4/Taller4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Parcial" />
   </component>
   <component name="RunManager">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -74,6 +138,8 @@
       <workItem from="1634936653531" duration="174000" />
       <workItem from="1635112641597" duration="1761000" />
       <workItem from="1635289212923" duration="2043000" />
+      <workItem from="1635532183502" duration="597000" />
+      <workItem from="1635544169003" duration="562000" />
     </task>
     <task id="LOCAL-00001" summary="(no funciona metodo buscar)">
       <created>1634936728789</created>
