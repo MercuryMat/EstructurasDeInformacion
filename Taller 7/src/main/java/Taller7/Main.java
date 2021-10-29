@@ -13,11 +13,9 @@ public class Main {
     public static void pila() {
 
         PilaLista pila = new PilaLista();
-        pila.insertar(1);
-        pila.insertar(2);
         pila.insertar(3);
-        pila.insertar(4);
-        pila.insertar(5);
+        pila.insertar(2);
+        pila.insertar(1);
 
         log.log(Level.INFO, ""+pila.quitar());
         log.log(Level.INFO, ""+pila.quitar());
