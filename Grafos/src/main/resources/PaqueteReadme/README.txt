@@ -1,0 +1,1 @@
+No pude hacer el parcial en el tiempo establecido no entendi como resolver los anteriores puntos
